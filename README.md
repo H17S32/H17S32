@@ -1,5 +1,6 @@
 ## Hello! I am H17S3👋
-### I know Lua, Java and python and I am mastering each one everyday. My aim is to learn programming languages and master them so I can hopfully get a career out of it.
-### I started off my journey learning lua and mastering it. While Lua is pretty cool it sometimes can't do as much things as other programming languages can do.  
+### I know Lua, Java, and Python and I am mastering each one every day. I aim to learn programming languages and master them so I can hopefully get a career out of it.
+### I started off my journey learning lua and mastering it. While Lua is pretty cool it sometimes can't do as many things as other programming languages can do I also am very inspired by other developers my mission is to gain as much experience as I can and grow my problem-solving skills.  
+## My history
+### I started off playing a game called "Roblox" and as I kept playing for a while I noticed they use a programming language called Lua which is embedded into their Roblox Studio software to build your games and that's how this story started as I made games and learned off from it I noticed that coding and writing lines and lines of code that somehow sometimes for no reason don't work was pretty fun. After all of this, I came to learn a new programming language called Python since it was very similar to Lua making it simple to understand. After I learned the basics I found Python to be cool and all but Java is where I found it to be better as learning Java can lead me to learn C# or something else similar and my goal since 2023 is to master Java and gain as much experence as I can.
 ![My Skills](https://skillicons.dev/icons?i=lua,python,java)
-
